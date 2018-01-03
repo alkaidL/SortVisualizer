@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="circleTextColor">#ffffff</color>
+    <color name="circleNormalColor">#199fff</color>
+    <color name="circlePivotColor">#f44242</color>
+
+    <color name="done">#bff289</color>
+    <color name="error">#ff0505</color>
+    <color name="ready">#0f27ff</color>
+</resources>
